@@ -1,0 +1,14 @@
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.loginForm.resources
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.CustomerForm.resources
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.Properties.Resources.resources
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WFATest.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\NETBOOKOUTLET.mdf
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\NETBOOKOUTLET_log.ldf
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.exe.config
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.exe
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.pdb
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.exe
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.pdb
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WFATest.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.addUsr.resources
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.AdminForm.resources

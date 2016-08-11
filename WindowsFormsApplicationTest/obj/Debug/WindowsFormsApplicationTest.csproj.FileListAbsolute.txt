@@ -1,0 +1,9 @@
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.exe.config
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.exe
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.pdb
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.csprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.Form1.resources
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.Properties.Resources.resources
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.exe
+c:\users\joseph\documents\visual studio 2015\Projects\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.pdb
